@@ -33,5 +33,5 @@ elif linguagem == 'Python':
     print('Criada por Guido van Rossum em 1982.')
 
 else:
-    print('Opss... Linguagem não reconhecida pelo programa!')
+    print('Opss... Linguagem não reconhecida pela aplicação!')
     
