@@ -3,7 +3,7 @@ print('''***Linguagens disponiveis:***
 ***C, C++, C#, PHP, Perl, Ruby, Java, JavaScript, Python***
 ***escreva o nome da sua linguagem conforme o enunciado.***''')
 
-linguagem = str(input('Qual a sua Linguagem de Preferência? '))
+linguagem = str(input('Qual a sua Linguagem de Programação de Preferência? '))
 
 if linguagem == 'C':
     print('Criada por Dennis Ritchie em 1972.')
