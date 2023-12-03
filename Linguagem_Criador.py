@@ -1,7 +1,7 @@
 print("Escreva a sua Linguagem de preferência e descubra quem a criou!")
 print('''***Linguagens disponiveis:***
 ***C, C++, C#, PHP, Perl, Ruby, Java, JavaScript, Python***
-***escreva o nome da linguagem conforme o enunciado.***''')
+***escreva o nome da sua linguagem conforme o enunciado.***''')
 
 linguagem = str(input('Qual a sua Linguagem de Preferência? '))
 
